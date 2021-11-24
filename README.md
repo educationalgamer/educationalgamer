@@ -16,8 +16,7 @@
 - 📫 How to reach me **sristiy31@gmail.com**
 
 - ⚡ Fun fact **I think I am a bug who know a little bit of every tech knowledge**
-- <a href="https://app.daily.dev/anshu2003"><img src="https://api.daily.dev/devcards/60bbb9f24b054119bd2afe3720a6a439.png?r=jlo" width="400" alt="anshu's Dev Card"/></a>
-
+-<a href="https://app.daily.dev/anshu2003"><img src="https://api.daily.dev/devcards/60bbb9f24b054119bd2afe3720a6a439.png?r=or0" width="400" alt="anshu's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anshu nishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu nishad" height="30" width="40" /></a>
