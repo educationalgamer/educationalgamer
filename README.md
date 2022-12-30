@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning java<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available at https://github.com/educationalgamer<br><br>📝 I regularly write articles on https://educationalgamer.blogspot.com/<br><br>📫 How to reach me sristiy31@gmail.com<br><br>⚡ Fun fact I think I am a bug who know a little bit of every tech knowledge
+🌱 I’m currently learning java<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available at https://github.com/educationalgamer<br><br>📝 I regularly write articles on https://educationalgamer.blogspot.com/<br><br>📫 How to reach me anshunishad.hamptons@gmail.com<br><br>⚡ Fun fact I think I am a bug who know a little bit of every tech knowledge
 
 
 # 💻 Tech Stack:
