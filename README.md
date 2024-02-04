@@ -1,29 +1,28 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm anshu</h1>
-<h3 align="center">I'm a passionate Developer from India.</h3>
-
-
-
-# 💫 About Me:
-👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available at https://github.com/educationalgamer<br><br>📝 I regularly code in https://leetcode.com/educationalgamer/<br><br>📫reach me at Linkedin @anshu-nishad<br><br>⚡ Fun fact I think I am a bug who knows a little bit of every tech knowledge
+<h2> Hi, I'm Anshu Nishad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZxMGV1cnd4ZWJlemEwaTk1aHRyaXR2a3pkaTBiYzh5ZzN2MXJhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="320">
+<p><em>Web Developer Intern at <a href="https://www.webfams.com/">WebFams</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Campus Ambassador at <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/8f927407-0e92-49d1-b6a4-496c82e8e574">Microsoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshu-nishad/) 
+[![Linkedin: thaianebraga](https://img.shields.io/badge/anshu-nishad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshu-nishad/)](https://www.linkedin.com/in/anshu-nishad/)
+[![GitHub Educationalgamer](https://img.shields.io/github/followers/educationalgamer?label=follow&style=social)](https://github.com/educationalgamer)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=educationalgamer&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=educationalgamer&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=educationalgamer&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, TailwindCss, Linux, Java],
+  tools: [React, Redux, Node, Recoil, Styled-Components, Jest, MongoDb, Postgres, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "Microsoft Community"
+                      },
+ challenge: "I am doing the #100DaysofWebDev challenge focused on Web Development"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=educationalgamer&icon=0&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/forcourse2W) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
