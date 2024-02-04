@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const anshu = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, TailwindCss, Linux, Java],
   tools: [React, Redux, Node, Recoil, Styled-Components, Jest, MongoDb, Postgres, Docker],
