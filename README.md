@@ -13,14 +13,18 @@
 ```javascript
 const anshu = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, TailwindCss, Linux, Java],
-  tools: [React, Redux, Node, Recoil, Styled-Components, Jest, MongoDb, Postgres, Docker],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Linux", "Java"],
+  tools: ["React", "Redux", "Node", "Recoil", "Styled-Components", "Jest", "MongoDb", "Postgres", "Docker"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "Microsoft Community"
-                      },
- challenge: "I am doing the #100DaysofWebDev challenge focused on Web Development"
+  additionalInfo: {
+    role: "Microsoft Learn Student Ambassador",
+    interests: ["Web3", "Microsoft technologies"],
+    certifications: 3
+  },
+  challenge: "I am done the #100DaysofWebDev challenge focused on Web Development",
+  funFact: "I'm like a bug, always hungry to learn new things in tech!"
 }
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
